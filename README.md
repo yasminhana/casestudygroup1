@@ -14,6 +14,6 @@ Aisyah :
 
 Yasmin :
 
-iv. Brief description of the case study :
+iv. Brief description of the case study : Parcel
 
 

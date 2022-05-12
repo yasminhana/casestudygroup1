@@ -1,5 +1,7 @@
 import 'dart:io';
 
+//Yasmin Hana binti Zulkifli 1914198
+//Nur Aisyah Syahirah binti Osman 
 class Parcel {
   late int id;
   late var housenum;
@@ -16,7 +18,7 @@ class Parcel {
   }
 }
 
-
+//Nur Aisyah Syahirah binti Osman 
 void main() {
 
     for (var x = 1; x <= 30; x++) {
@@ -41,6 +43,8 @@ void main() {
     }
 }
 
+//Yasmin Hana binti Zulkifli 1914198
+//function
 void parcel() {
   
   stdout.write("Enter the house number: ");
